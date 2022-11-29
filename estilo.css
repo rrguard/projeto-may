@@ -55,7 +55,8 @@ a:hover {text-decoration: underline;}
 
 /*area principal*/
 
-#area-principal { width: 920px; margin: auto; padding: 15px;}
+#area-principal { width: 920px; margin: auto; padding: 15px;
+padding: 15px;}
 
 #area-postagens { width: 660px;float: left; }
 

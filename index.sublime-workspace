@@ -1,1 +1,450 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"u",
+				"underline"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"f",
+				"foto1"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"gren",
+				"green"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"B",
+				"background"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"ti",
+				"title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2741,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAtQoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAACvCgAAPCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCgk8dGl0bGU+IFRlY0Jsb2cgLSBPIHNldSBCbG9nIGRlIHRlY25vbG9naWE8L3RpdGxlPgoJPG1ldGEgY2hhcnNldD0idXRmLTgiPgoJPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iZXN0aWxvLmNzcyI+CjwvaGVhZD4KPGJvZHk+Cgo8ZGl2IGlkPSJhcmVhLWNhYmVjYWxobyI+CgoJPGRpdiBpZD0iYXJlYS1sb2dvIj4KCQk8aDE+VGVjPHNwYW4gY2xhc3M9ImJyYW5jbyI+QmxvZzwvc3Bhbj48L2gxPgoKCTxkaXYgYXJlYS1tZW51PjwvZGl2PgoJCTxhIGhyZWY9ImluZGV4Lmh0bWwiPkhvbWUgPC9hPgoJCTxhIGhyZWY9ImpvZ29zLmh0bWwiPkpvZ29zIDwvYT4KCQk8YSBocmVmPSJjZWx1bGFyZXMuaHRtbCI+Q2VsdWxhcmVzIDwvYT4KCQk8YSBocmVmPSJpbmZvcm1hdGljYS5odG1sIj5JbmZvcm1hdGljYSA8L2E+CgkJPGEgaHJlZj0iZWxldHJvbmljb3MuaHRtbCI+RWxldHJvbmljb3MgPC9hPgoKCTwvZGl2PgoKPC9kaXY+Cgo8ZGl2IGlkPSJhcmVhLXByaW5jaXBhbCI+CjxkaXYgaWQ9ImFyZWEtcG9zdGFnZW5zIj4KCjwhLS0gYWJlcnR1cmEgZGEgcG9zdGFnZW0gLS0+CjxkaXYgY2xhc3M9InBvc3RhZ2VtIj4KCTxoMj5UaXR1bG8gZGEgcG9zdGFnZW0xPC9oMj4KCTxzcGFuIGNsYXNzPSJkYXRhLXBvc3RhZ2VtIj4gUG9zdGFkbyAyMCBtYXLDp28gMjAyMjwvc3Bhbj4KCTxpbWcgd2lkdGg9IjYyMHB4IiBzcmM9ImltYWdlbnMvaW1hZ2VtMS5qcGciPgoJPHA+CgkJTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLCBxdWlzIG5vc3RydWQgZXhlcmNpdGF0aW9uIHVsbGFtY28gbGFib3JpcyBuaXNpIHV0IGFsaXF1aXAgZXggZWEgY29tbW9kbyBjb25zZXF1YXQuIER1aXMgYXV0ZSBpcnVyZSBkb2xvciBpbiByZXByZWhlbmRlcml0IGluIHZvbHVwdGF0ZSB2ZWxpdCBlc3NlIGNpbGx1bSBkb2xvcmUgZXUgZnVnaWF0IG51bGxhIHBhcmlhdHVyLiBFeGNlcHRldXIgc2ludCBvY2NhZWNhdCBjdXBpZGF0YXQgbm9uIHByb2lkZW50LCBzdW50IGluIGN1bHBhIHF1aSBvZmZpY2lhIGRlc2VydW50IG1vbGxpdCBhbmltIGlkIGVzdCBsYWJvcnVtLgoJPC9wPgoKPGEgaHJlZj0iIj5MZWlhIG1haXM8L2E+Cgo8L2Rpdj4gCTwhLS0gZmVjaGFtZW50byBkYSBwb3N0YWdlbSAtLT4KCjwhLS0gYWJlcnR1cmEgZGEgcG9zdGFnZW0gLS0+CjxkaXYgY2xhc3M9InBvc3RhZ2VtIj4KCTxoMj5UaXR1bG8gZGEgcG9zdGFnZW0yPC9oMj4KCTxzcGFuIGNsYXNzPSJkYXRhLXBvc3RhZ2VtIj4gUG9zdGFkbyAxMCBtYXLDp28gMjAyMjwvc3Bhbj4KCTxpbWcgd2lkdGg9IjYyMHB4IiBzcmM9ImltYWdlbnMvaW1hZ2VtMi5qcGciPgoJPHA+CgkJTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLCBxdWlzIG5vc3RydWQgZXhlcmNpdGF0aW9uIHVsbGFtY28gbGFib3JpcyBuaXNpIHV0IGFsaXF1aXAgZXggZWEgY29tbW9kbyBjb25zZXF1YXQuIER1aXMgYXV0ZSBpcnVyZSBkb2xvciBpbiByZXByZWhlbmRlcml0IGluIHZvbHVwdGF0ZSB2ZWxpdCBlc3NlIGNpbGx1bSBkb2xvcmUgZXUgZnVnaWF0IG51bGxhIHBhcmlhdHVyLiBFeGNlcHRldXIgc2ludCBvY2NhZWNhdCBjdXBpZGF0YXQgbm9uIHByb2lkZW50LCBzdW50IGluIGN1bHBhIHF1aSBvZmZpY2lhIGRlc2VydW50IG1vbGxpdCBhbmltIGlkIGVzdCBsYWJvcnVtLgoJPC9wPgoKPGEgaHJlZj0iIj5MZWlhIG1haXM8L2E+Cgo8L2Rpdj4gCTwhLS0gZmVjaGFtZW50byBkYSBwb3N0YWdlbSAtLT4KCjwvZGl2PiAKCjxkaXYgaWQ9ImFyZWEtbGF0ZXJhbCI+IAoKIDxkaXYgY2xhc3M9ImNvbnRldWRvLWxhdGVyYWwiPgogPGgzPiBQb3N0YWdlbnMgcmVjZW50ZXM8L2gzPgogPGRpdiBjbGFzcz0icG9zdGFnZW0tbGF0ZXJhbCI+CjxwPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQ8L3A+Cgo8YSBocmVmPSIiPkxlaWEgbWFpczwvYT4KCjwvZGl2PgoKCiA8ZGl2IGNsYXNzPSJwb3N0YWdlbS1sYXRlcmFsIiBzdHlsZT0iYm9yZGVyLWJvdHRvbTogbm9uZTsiPgo8cD5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0PC9wPgoKPGEgaHJlZj0iIj5MZWlhIG1haXM8L2E+Cgo8L2Rpdj4KCjxkaXYgY2xhc3M9ImNvbnRldWRvLWxhdGVyYWwiPgogPGgzPiAgQ2F0ZWdvcmlhcyA8L2gzPgoKCQk8YSBocmVmPSJqb2dvcy5odG1sIj5Kb2dvcyA8L2E+IDxicj4KCQk8YSBocmVmPSJjZWx1bGFyZXMuaHRtbCI+Q2VsdWxhcmVzIDwvYT48YnI+CgkJPGEgaHJlZj0iaW5mb3JtYXRpY2EuaHRtbCI+SW5mb3JtYXRpY2EgPC9hPjxicj4KCQk8YSBocmVmPSJlbGV0cm9uaWNvcy5odG1sIj5FbGV0cm9uaWNvcyA8L2E+IDxicj4KCgoKPC9kaXY+Cgo8L2Rpdj4KPC9kaXY+Cgo8ZGl2IGlkPSJyb2RhcGUiPiBUb2RvcyBvcyBkaXJlaXRvciByZXNlcnZhZG9zPC9kaXY+CgoKCgo8L2Rpdj4KCjwvYm9keT4",
+					"AQAAAAAAAAABAAAArQoAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACjwvaHRtbD4",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAtQoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "estilo.css",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAjwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAbAUAAAAAAAAAAAAAbAUAAAAAAABsBQAAAAAAAJQCAAAvKkxpbXBhciBmb3JtYXRhw6fDo2kgcGFkcsOjbyovCip7bWFyZ2luOiAwOyBwYWRkaW5nOiAwO30KCkJvZHkge2ZvbnQtc2l6ZTogMWVtOwpmb250LWZhbWlseTogInRyZWJ1Y2hldCBtcyIsIGhlbHZldGljYSwgc2Fucy1zZXJpZjsKYmFja2dyb3VuZDogI2U2ZTZlNjt9CgoKCi8qbGF5b3V0Ki8KCiNhcmVhLWNhYmVjYWxobyB7YmFja2dyb3VuZDogI2Y3YjYwMDsKCXBhZGRpbmc6IDE1cHg7dGV4dC1hbGlnbjpjZW50ZXI7fQoKI2FyZWEtbG9nbywgI2FyZWEtbWVudSB7cGFkZGluZzogMTBweDt9CgoucG9zdGFnZW0tbGF0ZXJhbCB7IGZvbnQtc2l6ZTogMC44ZW07IHBhZGRpbmc6IDVweCA7CmJvcmRlci1ib3R0b206IDFweCBkb3R0ZWQgI2NjYzt9CgovKiBmb3JtYXRhw6fDo28gZW0gZ2VyYWwqLwpoMSB7IGNvbG9yOiAjNGU0ZTRlOyBmb250LXNpemU6IDIuNWVtIDsgfQoKaDIgeyBjb2xvcjogI2Y3YjYwMDsgIH0KCgpoMyB7IGNvbG9yOiAjNTY1NjU2OyAKCWJhY2tncm91bmQ6ICNjY2M7ICBwYWRkaW5nOiA1cHg7fQoKCi5kYXRhLXBvc3RhZ2VtIHsgZm9udC1zaXplOiAwLjhlbTsKIGJvcmRlci1ib3R0b206IDsgMXB4IHNvbGlkICNmNGY0ZjQgOyBwYWRkaW5nLWJvdHRvbToxMHB4IDsKbWFyZ2luLWJvdHRvbTogMTBweDsgZGlzcGxheTogYmxvY2s7fQo",
+					"AQAAAAAAAAABAAAAjwIAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mayar/OneDrive/Área de Trabalho/projeto CSS 3 intermediario/inline.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/projeto CSS 3 intermediario/elementosflutuantes.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/projeto CSS 3 intermediario/estilo.css",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/estilo.css",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/index.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/contato.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/Campanhas publicitarias.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/biografia p2.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/pagina2.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/home.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/tamanho-texto.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/fonte-cores.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/bordas.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/div-span.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/classes-ids.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto CSS/inline_style.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Primeiro projeto/projeto final.html/contato.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Primeiro projeto/projeto final.html/index.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Primeiro projeto/projeto final.html/logo.png",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/1",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Primeiro projeto/index.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Primeiro projeto/contato.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Primeiro projeto/Desafio1.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Primeiro projeto/projeto.html",
+		"/C/Users/mayar/OneDrive/Área de Trabalho/Projeto Web/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2637,
+								2637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1850.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1388,
+								1388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
